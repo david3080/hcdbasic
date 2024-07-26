@@ -30,6 +30,6 @@
 
 ## 5.その他
 
-![5.その他](images/5_Other.png)
+動画なし<br>
 
 <a href="6_Other.md" target=”_blank”>確認テスト</a>
