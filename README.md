@@ -26,8 +26,6 @@
 
 [![4.評価と運用](images/4_Eval&Ope.png)](https://www.youtube.com/watch?v=VzGbtbPmyaY)
 
-<a href="https://www.youtube.com/watch?v=VzGbtbPmyaY")
-
 <a href="5_Eval&Ope.md" target=”_blank”>確認テスト</a>
 
 ## 5.その他
