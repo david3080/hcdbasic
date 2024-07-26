@@ -12,28 +12,24 @@
 
 <a href="2_Plan.md" target=”_blank”>確認テスト</a>
 
-## 3.要求定義
+## 3.要求定義と具現化
 
-[![3.要求定義](images/3_ReqDef.png)](https://www.youtube.com/watch?v=WhUHXkLWYLc)
+[![3.要求定義と具現化](images/3_ReqDefEmbodiment.png)](https://www.youtube.com/watch?v=WhUHXkLWYLc)
 
-<a href="3_ReqDef.md" target=”_blank”>確認テスト</a>
+<a href="3_ReqDef.md" target=”_blank”>「要求定義」の確認テスト</a>
+<br>
+<a href="4_Embodiment.md" target=”_blank”>「具現化」の確認テスト</a>
 
-## 4.具現化
+## 4.評価と運用
 
-[![4.具現化](images/4_Embodiment.png)](https://www.youtube.com/watch?v=VzGbtbPmyaY)
-
-<a href="4_Embodiment.md" target=”_blank”>確認テスト</a>
-
-## 5.評価と運用
-
-[![5.評価と運用](images/5_Eval&Ope.png)](https://www.youtube.com/watch?v=VzGbtbPmyaY)
+[![4.評価と運用](images/4_Eval&Ope.png)](https://www.youtube.com/watch?v=VzGbtbPmyaY)
 
 <a href="https://www.youtube.com/watch?v=VzGbtbPmyaY")
 
 <a href="5_Eval&Ope.md" target=”_blank”>確認テスト</a>
 
-## 6.その他
+## 5.その他
 
-![6.その他](images/6_Basic.png)
+![5.その他](images/5_Other.png)
 
-<a href="6_Basic.md" target=”_blank”>確認テスト</a>
+<a href="6_Other.md" target=”_blank”>確認テスト</a>
