@@ -4,7 +4,7 @@
 
 ## 1.人間中心デザインとは？
 
-[「1.人間中心デザインとは？」動画]](https://www.youtube.com/watch?v=OCaYDXQenQU)
+[「1.人間中心デザインとは？」動画](https://www.youtube.com/watch?v=OCaYDXQenQU)
 
 [確認テスト](1_WhatsHCD.md)
 
