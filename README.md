@@ -1,4 +1,4 @@
-# 人間中心デザインとは？
+# 人間中心デザイン基礎講座とテスト
 
 [講座動画の再生リスト](https://www.youtube.com/watch?v=OCaYDXQenQU&list=PL0izjMLvC3nPKLqlFdeLuI0MkM6VMmVUS)
 
