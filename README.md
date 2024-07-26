@@ -1,5 +1,7 @@
 # 人間中心デザインとは？
 
+[講座動画の再生リスト](https://www.youtube.com/watch?v=OCaYDXQenQU&list=PL0izjMLvC3nPKLqlFdeLuI0MkM6VMmVUS)
+
 ## 1.人間中心デザインとは？
 
 [![1.人間中心デザインとは？](images/1_WhatsHCD.png)](https://www.youtube.com/watch?v=OCaYDXQenQU)
